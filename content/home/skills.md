@@ -18,20 +18,68 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "SQL"
+  description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Python"
+  description = ""
 
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Tableau"
+  description = ""
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Power BI"
+  description = ""  
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "SPSS"
+  description = ""
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Shell"
+  description = ""  
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Spreadsheets"
+  description = ""
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Excel"
+  description = ""
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Power BI"
+  description = "git"  
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "HTML/CSS"
+  description = ""
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
