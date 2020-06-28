@@ -1,2 +1,0 @@
-# BrianKissell
-Academic Website
