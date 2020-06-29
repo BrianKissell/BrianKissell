@@ -23,6 +23,8 @@ copyright = "&copy;2020"
 # Name of Academic theme folder in `themes/`.
 theme = "hugo-academic"
 
+# I am adding the google analytics id.
+googleAnalytics = "UA-171130035-1"
 # Get last modified date for content from Git?
 enableGitInfo = false
 

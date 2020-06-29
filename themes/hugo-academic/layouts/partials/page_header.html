@@ -1,6 +1,7 @@
 {{ $page := . }}
 {{ $featured := (.Resources.ByType "image").GetMatch "*featured*" }}
 {{ $anchor := $page.Params.image.focal_point | default "Smart" }}
+{{ template "_internal/google_analytics.html" . }}
 
 {{/* Set default titles for node pages */}}
 {{ $title := .Title }}
