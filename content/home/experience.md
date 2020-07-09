@@ -26,9 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-* Conducted numerous web-scraping projects that involved the formation of relevant research questions, data collection, exploratory data analysis, data visualizations, statistical analyses, and reporting on results.
-* Utilized statistical and machine learning models to detect predictors of donation levels for a non-profit organization.
-* Wrote a program that allows one to upload an audio file to be transcribed, after which the user is presented with textual analysis results and visualizations in a dashboard.
+I am a freelance data scientist with expertise in research design, statistical and exploratory analysis, statistical modeling, technical writing, data collection, web scraping, natural linguistic processing, and more.
 
   """
 
@@ -41,11 +39,7 @@ date_format = "Jan 2006"
   date_end = "2020-06-27"
   description = """
   
-* Managed a research team on more than twenty experiments, surveys, and web scraping studies, which included hypothesis generation, study design, data collection, data analysis, statistical modeling, and the reporting of results.
-* Gained expertise in data analysis and statistical modeling, including data visualization, multiple regression and correlation analysis, analysis of variance, meta-analysis, Bayesian analysis, and supervised and unsupervised machine learning.
-* Constructed and validated a new measure with the use of numerous psychometric techniques, including parametric and non-parametric item response theory, factor analysis, classical test theory, and structural equation modeling.
-* Conducted multiple meta-science studies related to best research practices within psychology.
-* Utilized natural language processing, textual analysis techniques, and classification models to evaluate textual data.
+In this position, I managed a research team in running experiments, surveys, and web scraping studies. These projects included hypothesis generation, study design, data collection, data analysis, statistical modeling, and reporting of results. In these projects, I utilized data visualizations, multiple regression and correlation analysis, analysis of variance, meta-analysis, Bayesian analysis, and supervised and unsupervised machine learning, and much more. One example of a project that I work on is that I constructed and validated a new measure with the use of numerous psychometric techniques, including parametric and non-parametric item response theory, factor analysis, classical test theory, and structural equation modeling. I also utilized natural language processing, textual analysis techniques, and classification models to evaluate textual data.
   
   """
 
@@ -58,8 +52,7 @@ date_format = "Jan 2006"
   date_end = "2015-08-01"
   description = """
   
-* Facilitated testing in a genetics laboratory.
-* Gained experience working with data in a medical setting.
+In this position, I facilitated testing in a genetics laboratory, and gained experience working with data in a medical setting.
   
   """
 

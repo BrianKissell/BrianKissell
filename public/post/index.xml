@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Wed, 08 Jul 2020 04:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,27 +13,71 @@
     </image>
     
     <item>
-      <title>The Languages of Mathematics and Technology</title>
-      <link>/post/the-languages-of-mathematics-and-technology/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/the-languages-of-mathematics-and-technology/</guid>
+      <title>Science Communication</title>
+      <link>/post/science-communication/</link>
+      <pubDate>Wed, 08 Jul 2020 04:00:00 +0000</pubDate>
+      <guid>/post/science-communication/</guid>
       <description>
 
 
-&lt;p&gt;As an undergraduate psychology student, I worked with a quantitative psychologist who had a nice analogy that has stuck with me. He spoke about the process of learning a new language. After studying a language for a few years, one may travel to a new area where that language is spoken and be able to somewhat function in that new place. They may have the skills to ask for directions to a restroom, to order their food, and may have even developed a decent vocabulary. However, it is unlikely that this person will have the fluency and skills necessary to communicate with others in a manner that is productive or meaningful. To truly take advantage of a new language, and to gain the skills to express oneself in a proficient manner, it can take a large amount of work and time. However, it can also be tremendously rewarding.&lt;/p&gt;
-&lt;p&gt;This researcher would argue that it can be helpful to think about math as a language. He argued that there were too many within psychology who were only functioning at a basic (purely functional) level, and these people could benefit greatly if they would work to gain a fluency with the language of mathematics. I will add to the analogy by saying that the same could be said about the technological tools that are used within psychology. While most utilize sophisticated technologies for data collection and analysis, I would argue that many researchers within psychology are far from fluent in the language of technology and programming. Many seem content with using technology at a purely functional level, but I believe that for those who really want to explore and understand the targets of their research will need to develop a fluency with the languages of mathematics and technology.&lt;/p&gt;
-&lt;p&gt;Within the past two years, I have found myself drawn away from academic psychology, and instead have decided to enter the world of data-science. For those who are unfamiliar, data science is an interdisciplinary field that attempts to utilize scientific methodologies, statistical techniques, and algorithms – with a strong emphasis on programming, technology, and mathematics – to gain insights into the large array of data that is being made available by technology. I believe that the fields of both data science and psychology have a great deal to teach one another, and I am interested in exploring what those lessons are. As an attempt to begin that exploration, I am beginning a series on lessons that psychologological researchers can learn from data science. Some of the topics that I will explore in this series include lessons on data visualization, web scraping, data cleaning, exploratory data analysis, cross validation, textual analysis, natural linguistic processing, supervised and unsupervised machine learning, time series analysis, survival analysis, file management, database management, deep learning, many programming languages, and more. I look forward to exploring these topics with you.&lt;/p&gt;
+&lt;p&gt;Why do scientists study what they choose to study? Why would one dedicate their life towards gaining the complex technical skills that allow for scientific pursuit? I believe that most of us entered scientific disciplines because we believe that science can bring about incredible insight &amp;amp; understanding that can be used to improve the lives of people. For the past eight to ten years, I have dedicated a significant portion of time attempting to develop the skills necessary to help real people understand complex scientific research. I have done this because I believe that scientific research should be utilized and for that to take place, real people need to be persuaded of its value.&lt;/p&gt;
+&lt;p&gt;During my undergraduate education, I created the methodology for psychology podcast in which I created more than 60 episodes. In these episodes, I interviewed experts in the field about their research and the methods they used. The purpose was to present academic research in a manner that could be understood by a general audience. I took down the podcast to allow me to focus on graduate school, but you can find the archived episodes &lt;a href=&#34;https://methodologyforpsychology.wordpress.com/&#34;&gt;here&lt;/a&gt;. My time within my graduate program also provided me with numerous opportunities to develop skills related to science communication. I was a teaching assistant for four semesters, and I was the course instructor for six semesters in which I taught multiple topics (i.e., research methods, social psychology, and stress). I was also able to write numerous research manuscripts, and to present my results in many poster sessions and talks.&lt;/p&gt;
+&lt;p&gt;There are numerous technologies and techniques that help to facilitate good science communication. Some of my favorite data visualization tools are &lt;em&gt;ggplot2&lt;/em&gt;, &lt;em&gt;matplotlib&lt;/em&gt;, &lt;em&gt;tableau&lt;/em&gt;, and &lt;em&gt;power bi&lt;/em&gt;. For manuscripts, as well as most written types of reports, I tend to use &lt;em&gt;R Markdown&lt;/em&gt;. I use &lt;em&gt;R Studio&lt;/em&gt; and &lt;em&gt;blogdown&lt;/em&gt; to run my website (which I host on &lt;em&gt;github&lt;/em&gt;). I also tend to construct dashboards with &lt;em&gt;rshiny&lt;/em&gt; and &lt;em&gt;shinydashboards&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistics and Machine Learning</title>
+      <link>/post/statistics-and-machine-learning/</link>
+      <pubDate>Wed, 08 Jul 2020 03:00:00 +0000</pubDate>
+      <guid>/post/statistics-and-machine-learning/</guid>
+      <description>
+
+
+&lt;p&gt;Within psychological research, individuals who prioritize the use of robust quantitative techniques tend to take one of two differing approaches, which I will describe as being a specialist or a generalist. The specialist tends to select a technique that helps them address the types of questions they tend to ask (e.g., ANOVA, Regression, Chi-Square, Structural Equation Modeling, etc.), and then they attempt to design every study in a way that can utilize that technique. This approach can be quite valuable, as these specialists are likely to gain a thorough understanding of the complexities related to that approach. Generalists, on the other hand, attempt to utilize a wide range of differing techniques depending on the questions that are being asked. This approach can also be quite beneficial as it does not force researchers to shove every study and question through a square peg, and instead the researcher can focus on detecting and utilizing the best techniques for each individual question.&lt;/p&gt;
+&lt;p&gt;As an applied statistician and researcher, I tend to take a generalist approach, and am passionate about learning a wide array of differing skills and techniques. I believe that this approach gives me the ability to think widely and deeply about differing research questions, and to be able to consider which methods will be most beneficial within a project. In my work (&lt;a href=&#34;https://briankissell.com/post/prior-research-studies/&#34;&gt;click here for a list of some of my past projects&lt;/a&gt;), I have utilized linear regression, logistic regression, the general linear model, correlation, analysis of variance (ANOVA), time series analysis, meta-analysis, psychometrics, factor analysis, structural equation modeling, bayesian analysis, random forest models, principle component analysis, K-means clustering, hierarchical clustering, K nearest neighbors, naive bayes, and many other techniques.&lt;/p&gt;
+&lt;p&gt;From the time I began as an undergraduate student, I have taken more than twelve college level mathematics and statistics courses. These included courses on general statistical methods, analysis of variance, multiple regression, multivariate methods, structural equation modeling, meta-analysis, and more. In addition, I have taken numerous online courses, including &lt;a href=&#34;https://www.coursera.org/learn/statistical-inferences&#34;&gt;“Improving Your Statistical Inferences”&lt;/a&gt;, &lt;a href=&#34;https://www.coursera.org/learn/improving-statistical-questions&#34;&gt;“Improving Your Statistical Questions”&lt;/a&gt;, &lt;a href=&#34;https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your&#34;&gt;“Causal Diagrams: Draw Your Assumptions Before Your Conclusions”&lt;/a&gt;, as well as more than 100 courses from DataCamp, a majority of which focus on utilizing programing skills to conduct statistical analyses and to utilize machine learning algorithms. You can find the certificates for every DataCamp course that I have taken at &lt;a href=&#34;https://www.datacamp.com/profile/brianlkissell&#34; class=&#34;uri&#34;&gt;https://www.datacamp.com/profile/brianlkissell&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I will say that I believe that the best work occurs when generalists and specialists are able to collaborate and work together on solving differing problems within their research. I am a strong believer in the need for collaborative working environments in which differing team members can contribute their unique skill sets. I am thus proud that most of the projects that I have designed have involved high levels of collaboration, and I look forward to the many future projects in which I will be able to work with additional talented and exciting colleagues.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Programming Skills</title>
+      <link>/post/programming-skills/</link>
+      <pubDate>Wed, 08 Jul 2020 01:00:00 +0000</pubDate>
+      <guid>/post/programming-skills/</guid>
+      <description>
+
+
+&lt;p&gt;My experience within psychology suggests that most researchers value, and utilize, important statistical techniques and procedures within their work, which often leads to the use of interesting and complex multivariate statistical approaches to problems. However, there seems to be less interest and attention within the field on developing and utilizing sufficient programming skills that allow one to really take advantage of the best statistical, as well as most methodologically robust, techniques. Researchers can get away with this, because there are strong traditions of using certain legacy programs within the field, such as SPSS, LISREL, Excel, etc. It is common for researchers to learn how to perform their techniques within these programs, and then rarely branch out to explore and improve upon the ways in which they use these technologies.&lt;/p&gt;
+&lt;p&gt;Early on within my education, I recognized the importance of developing valuable skill-sets, and was interested in the value of developing computer programming skills. I was particularly interested in R programming, as I was extremely impressed with how it was being used by statisticians and researchers within meta-science (which is an area of research dedicated towards understanding the best ways to conduct scientific studies). However, during my last two or three years within graduate school, I became exposed to the world of data science, which really opened my eyes to the incredible possibilities in which technology, combined with scientific and statistical expertise, can be used to gain important and actionable insights that can help improve the world.&lt;/p&gt;
+&lt;p&gt;I thus began to take a generalist approach to computer programming. I am not married to any language, but instead am very interested in how scientists and researchers can take advantage of the strengths of differing languages to accomplish their goals. However, there are a few languages that I most frequently use in my work, which are R, SQL, Python, Tableau, Power BI, SPSS, and Excel. I have learned most of my programming skills through self-study, taking online courses, and attempting to apply new techniques within my work. My favorite learning platform has been DataCamp, which I have used to complete more than 100 different courses. You can find the certificates for every DataCamp course by clicking &lt;a href=&#34;https://www.datacamp.com/profile/brianlkissell&#34;&gt;here&lt;/a&gt;. Lastly, I will note that my experience within graduate school taught me that I have the ability to learn complex technical skills in a fairly short period of time. I am always looking for new skills and techniques to learn and look forward to continuing my lifetime pursuit of learning and self-development.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hypothesis Generation, Research Methods, and Research Design</title>
+      <link>/post/hypothesis-generation-research-methods-and-research-design/</link>
+      <pubDate>Tue, 07 Jul 2020 02:00:00 +0000</pubDate>
+      <guid>/post/hypothesis-generation-research-methods-and-research-design/</guid>
+      <description>
+
+
+&lt;p&gt;An interesting thing about the field of psychology is that few people outside of the discipline have any idea of what it is, and yet almost everyone has a strong intuition related to the field. One example that I see frequently is the assumption that psychology is closely related to psychotherapy (although real psychotherapy usually does not match what people are imagining either). In reality, for a large proportion of psychologists, psychology has almost nothing to do with psychotherapy. Instead, psychology basically refers to a field in which scientists and researchers study people as individuals (e.g., they might be interested in behavior or cognition.) For example, I was trained as an applied experimental social psychologist, and as such I focused most of my research on utilizing the best methodological and statistically robust techniques towards understanding the topic of attitude and belief formation (i.e., why do people believe the things that they do?).&lt;/p&gt;
+&lt;p&gt;I bring this up because as a data scientist I see signs of a similar issue related to research design and hypothesis generation. Most people have a strong intuition that these topics are something that they are not, and thus may inaccurately estimate their ability to design studies, and or generate hypotheses. I find this to be interesting as a researcher who was not originally trained within a computer-science-oriented field. It seems completely obvious that for one to become a great programmer, that individual will need to engage in a tremendous amount of practice, and this process can take a significant amount of time. I would argue that the same could be said for study design, and hypothesis generation. It could also be said of the skill to detect important questions, and an ability to frame those questions in a theoretically sensible manner.&lt;/p&gt;
+&lt;p&gt;I believe that one of the largest benefits from an education within the field of psychology is that research design, hypothesis generation, theory generation, and critical thinking skills are prioritized. For example, for the past six years, I have participated in multiple journal article reading groups, which took place almost every week. Thus, I was able to spend multiple hours every week considering and debating the strengths, and weaknesses of differing studies, usually focusing on how the questions being asked, the theory being developed, and the methods and statistics being utilized could be improved. In addition, a large portion of all of my coursework was focused on similar issues. I was also able to gain hands-on experience as I led teams on more than twenty research projects, which included hypothesis generation, study design, data collection (and web scraping), statistical analysis, and reporting. I thus have significant training with hypothesis generation, experimental design, survey design, a/b testing, power analysis, and sampling methods. I also have experience designing and constructing new scales and measures, along with experience in validating those measures.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Prior Research Studies</title>
       <link>/post/prior-research-studies/</link>
-      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/post/prior-research-studies/</guid>
       <description>
 
 
+&lt;p&gt;The following is an incomplete list of experiments, surveys, and other research projects that I have conducted within the past six years.&lt;/p&gt;
 &lt;div id=&#34;unpublished-manuscripts&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Unpublished Manuscripts&lt;/h2&gt;
 &lt;p&gt;Vohs, K. D., Schmeichel, B. J., Lohmann, S., Gronau, Q.… Kissell, B. L…. Wagenmakers, E.-J., &amp;amp; Albarracín, D. (2019). A preregistered paradigmatic test of the ego depletion effect. Unpublished manuscript, University of Minnesota, Minneapolis MN.&lt;/p&gt;
@@ -77,6 +121,20 @@
 &lt;p&gt;Kissell, B. L. (2018). Has psychology always been so ideologically biased?: A historical argument for ideological diversity. SPSP Annual Convention. Atlanta, GA: Society for Personality and Social Psychology.&lt;/p&gt;
 &lt;p&gt;Kissell, B. L.; Gibson, B. (2019). Religious Decline, Political Ideology, and Authoritarianism. SCREE Annual Student Research and Creative Endeavors Exhibition. Mount Pleasant, MI: Central Michigan University.&lt;/p&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Languages of Mathematics and Technology</title>
+      <link>/post/the-languages-of-mathematics-and-technology/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/the-languages-of-mathematics-and-technology/</guid>
+      <description>
+
+
+&lt;p&gt;As an undergraduate psychology student, I worked with a quantitative psychologist who had a nice analogy that has stuck with me. He spoke about the process of learning a new language. After studying a language for a few years, one may travel to a new area where that language is spoken and be able to somewhat function in that new place. They may have the skills to ask for directions to a restroom, to order their food, and may have even developed a decent vocabulary. However, it is unlikely that this person will have the fluency and skills necessary to communicate with others in a manner that is productive or meaningful. To truly take advantage of a new language, and to gain the skills to express oneself in a proficient manner, it can take a large amount of work and time. However, it can also be tremendously rewarding.&lt;/p&gt;
+&lt;p&gt;This researcher would argue that it can be helpful to think about math as a language. He argued that there were too many within psychology who were only functioning at a basic (purely functional) level, and these people could benefit greatly if they would work to gain a fluency with the language of mathematics. I will add to the analogy by saying that the same could be said about the technological tools that are used within psychology. While most utilize sophisticated technologies for data collection and analysis, I would argue that many researchers within psychology are far from fluent in the language of technology and programming. Many seem content with using technology at a purely functional level, but I believe that for those who really want to explore and understand the targets of their research will need to develop a fluency with the languages of mathematics and technology.&lt;/p&gt;
+&lt;p&gt;Within the past two years, I have found myself drawn away from academic psychology, and instead have decided to enter the world of data-science. For those who are unfamiliar, data science is an interdisciplinary field that attempts to utilize scientific methodologies, statistical techniques, and algorithms – with a strong emphasis on programming, technology, and mathematics – to gain insights into the large array of data that is being made available by technology. I believe that the fields of both data science and psychology have a great deal to teach one another, and I am interested in exploring what those lessons are. As an attempt to begin that exploration, I am beginning a series on lessons that psychologological researchers can learn from data science. Some of the topics that I will explore in this series include lessons on data visualization, web scraping, data cleaning, exploratory data analysis, cross validation, textual analysis, natural linguistic processing, supervised and unsupervised machine learning, time series analysis, survival analysis, file management, database management, deep learning, many programming languages, and more. I look forward to exploring these topics with you.&lt;/p&gt;
 </description>
     </item>
     
