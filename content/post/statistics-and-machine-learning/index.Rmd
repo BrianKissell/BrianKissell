@@ -1,0 +1,19 @@
+---
+title: "Statistics and Machine Learning"
+author: "Brian Kissell"
+date: "2020-07-08T03:00:00Z"
+output: html_document
+featured: True
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Within psychological research, individuals who prioritize the use of robust quantitative techniques tend to take one of two differing approaches, which I will describe as being a specialist or a generalist.  The specialist tends to select a technique that helps them address the types of questions they tend to ask (e.g., ANOVA, Regression, Chi-Square, Structural Equation Modeling, etc.), and then they attempt to design every study in a way that can utilize that technique. This approach can be quite valuable, as these specialists are likely to gain a thorough understanding of the complexities related to that approach. Generalists, on the other hand, attempt to utilize a wide range of differing techniques depending on the questions that are being asked. This approach can also be quite beneficial as it does not force researchers to shove every study and question through a square peg, and instead the researcher can focus on detecting and utilizing the best techniques for each individual question. 
+
+As an applied statistician and researcher, I tend to take a generalist approach, and am passionate about learning a wide array of differing skills and techniques. I believe that this approach gives me the ability to think widely and deeply about differing research questions, and to be able to consider which methods will be most beneficial within a project. In my work ([click here for a list of some of my past projects]( https://briankissell.com/post/prior-research-studies/)), I have utilized linear regression, logistic regression, the general linear model, correlation, analysis of variance (ANOVA), time series analysis, meta-analysis, psychometrics, factor analysis, structural equation modeling, bayesian analysis, random forest models, principle component analysis, K-means clustering, hierarchical clustering, K nearest neighbors, naive bayes, and many other techniques.
+
+From the time I began as an undergraduate student, I have taken more than twelve college level mathematics and statistics courses. These included courses on general statistical methods, analysis of variance, multiple regression, multivariate methods, structural equation modeling, meta-analysis, and more. In addition, I have taken numerous online courses, including [“Improving Your Statistical Inferences”](https://www.coursera.org/learn/statistical-inferences), [“Improving Your Statistical Questions”](https://www.coursera.org/learn/improving-statistical-questions), [“Causal Diagrams: Draw Your Assumptions Before Your Conclusions”](https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your),  as well as more than 100 courses from DataCamp, a majority of which focus on utilizing programing skills to conduct statistical analyses and to utilize machine learning algorithms. You can find the certificates for every DataCamp course that I have taken at https://www.datacamp.com/profile/brianlkissell.
+
+I will say that I believe that the best work occurs when generalists and specialists are able to collaborate and work together on solving differing problems within their research. I am a strong believer in the need for collaborative working environments in which differing team members can contribute their unique skill sets. I am thus proud that most of the projects that I have designed have involved high levels of collaboration, and I look forward to the many future projects in which I will be able to work with additional talented and exciting colleagues.

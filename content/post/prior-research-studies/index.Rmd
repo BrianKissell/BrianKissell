@@ -1,13 +1,15 @@
 ---
 title: "Prior Research Studies"
 author: "Brian Kissell"
-date: "2020-06-27T00:00:00Z"
+date: "2020-07-07T00:00:00Z"
 output: html_document
+featured: True
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+The following is an incomplete list of experiments, surveys, and other research projects that I have conducted within the past six years. 
 
 ## Unpublished Manuscripts
 

@@ -1,0 +1,17 @@
+---
+title: "Programming Skills"
+author: "Brian Kissell"
+date: "2020-07-08T01:00:00Z"
+output: html_document
+featured: True
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My experience within psychology suggests that most researchers value, and utilize, important statistical techniques and procedures within their work, which often leads to the use of interesting and complex multivariate statistical approaches to problems. However, there seems to be less interest and attention within the field on developing and utilizing sufficient programming skills that allow one to really take advantage of the best statistical, as well as most methodologically robust, techniques. Researchers can get away with this, because there are strong traditions of using certain legacy programs within the field, such as SPSS, LISREL, Excel, etc. It is common for researchers to learn how to perform their techniques within these programs, and then rarely branch out to explore and improve upon the ways in which they use these technologies.
+
+Early on within my education, I recognized the importance of developing valuable skill-sets, and was interested in the value of developing computer programming skills. I was particularly interested in R programming, as I was extremely impressed with how it was being used by statisticians and researchers within meta-science (which is an area of research dedicated towards understanding the best ways to conduct scientific studies). However, during my last two or three years within graduate school, I became exposed to the world of data science, which really opened my eyes to the incredible possibilities in which technology, combined with scientific and statistical expertise, can be used to gain important and actionable insights that can help improve the world. 
+
+I thus began to take a generalist approach to computer programming. I am not married to any language, but instead am very interested in how scientists and researchers can take advantage of the strengths of differing languages to accomplish their goals. However, there are a few languages that I most frequently use in my work, which are R, SQL, Python, Tableau, Power BI, SPSS, and Excel. I have learned most of my programming skills through self-study, taking online courses, and attempting to apply new techniques within my work. My favorite learning platform has been DataCamp, which I have used to complete more than 100 different courses. You can find the certificates for every DataCamp course by clicking [here](https://www.datacamp.com/profile/brianlkissell). Lastly, I will note that my experience within graduate school taught me that I have the ability to learn complex technical skills in a fairly short period of time. I am always looking for new skills and techniques to learn and look forward to continuing my lifetime pursuit of learning and self-development.
