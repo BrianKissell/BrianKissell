@@ -54,19 +54,11 @@ While much of my prior work has focused on attitude formation, persuasion, decis
 
 +	**Programming:** R, SQL, Python, Tableau, Power BI, SPSS, Shell, Spreadsheets, Excel, Git, HTML, CSS
 
-|   *[Click here for additional information regarding my programming skills.](https://briankissell.com/post/programming-skills/)*
-
 +	**Statistics and Machine Learning:** Linear Regression, Logistic Regression, General Linear Model, Correlation, Analysis of Variance, Time Series Analysis, Meta-Analysis, Psychometrics, Factor Analysis, Structural Equation Modeling, Bayesian Analysis, Random Forest Models, Principle Component Analysis, K-Means Clustering, Hierarchical Clustering, K Nearest Neighbors, Naive Bayes, Probability, Statistical Inference 
-
-*[Click here for additional information regarding my experience with statistics and machine learning.](https://briankissell.com/post/statistics-and-machine-learning/)*
 
 +	**Research Methods:** Hypothesis Generation, Experimental Design, Survey Design, A/B Testing, Power Analysis, Sampling Methods, Scale Construction, Measurement Validation, Data Collection, Web Scraping 
 
-*[Click here for additional information regarding my experience with research methods and design.](https://briankissell.com/post/hypothesis-generation-research-methods-and-research-design/)*
-
 +	**Reporting:** Data Visualization, R Markdown, Shiny Apps, Dashboard Construction, Technical Writing
-
-*[Click here for additional information regarding my experience with the reporting of results.](https://briankissell.com/post/science-communication/)*
 
 +	**Data Processing:** Data Manipulation, Data Cleaning, Data Collection, Exploratory Data Analysis
 
