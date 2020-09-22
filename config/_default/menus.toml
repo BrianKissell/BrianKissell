@@ -43,6 +43,6 @@
   weight = 70
 
 [[main]]
-  name = "Contact"
+  name = "Courses"
   url = "https://briankissell.com/courses/"
   weight = 80

@@ -4,9 +4,9 @@ external_link: http://example.org
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Link to project will be added at a future date.   `external_link`.
 tags:
 - Demo
-title: External Project
+title: Portfolio Example 1
 draft: true
 ---
