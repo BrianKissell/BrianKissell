@@ -8,6 +8,7 @@ slides:
 summary: An introduction to using Academic's Slides feature.
 tags: []
 title: Slides
+draft: false
 ---
 
 # Create slides in Markdown with Academic
