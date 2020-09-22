@@ -44,5 +44,5 @@
 
 [[main]]
   name = "Courses"
-  url = "https://briankissell.com/courses/"
+  url = "#courses"
   weight = 80

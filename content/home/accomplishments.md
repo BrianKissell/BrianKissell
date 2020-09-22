@@ -78,10 +78,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Completed 'Introduction to SQL Server', 'Introduction to Relational Databases in SQL', 'Intermediate SQL Server', 'Time Series Analysis in SQL Server', 'Functions for Manipulation Data in SQL Server', 'Database Design', 'Hierarchical and Recursive Queries in SQL Server', 'Transactions and Error Handling in SQL Server', 'Writing Functions and Stored Procedures in SQL Server', 'Building and Optimizing Triggers in SQL Server', and 'Improving Query Performance in SQL Server'."
   
-  
-
-
-
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
@@ -142,8 +138,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Completed 'Introduction to Python', 'Intermediate Python', 'Python Data Science Toolbox (Part 1)', 'Python Data Science Toolbox (Part 2)'."
   
-  
-  
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
@@ -193,4 +187,6 @@ date_format = "Jan 2006"
   date_start = "2020-09-15"
   date_end = ""
   description = "Completed 115 courses from Datacamp. Certificates for each course can be found at datacamp.com"
+
+
 +++
