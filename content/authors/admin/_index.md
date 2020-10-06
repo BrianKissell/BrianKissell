@@ -46,19 +46,17 @@ user_groups:
 - Visitors
 ---
 
-I am an applied experimental social psychologist with an expertise in quantitative research, data analysis, and statistical modeling. In 2018, I began to learn about the incredible world of data science, and I found myself drawn to the area for many reasons. One of the main reasons was that I found data science to more closely represent my values as a researcher, and I will share an example. I was originally drawn to social psychology because I am passionate about utilizing methodologically, and statistically, robust techniques to address important questions that could substantially, or incrementally, improve the lives of people. While it is sometimes possible to do this well within academia, the incentives to rigorously pursue real insights that can improve business decision-making, and provide real benefits to organizational decision-makers, are much stronger in data-science.
-
-While much of my prior work has focused on attitude formation, persuasion, decision-making, and social cognition, I have always been mostly interested in diving into new research areas, generating hypotheses, designing informative studies, and learning and utilizing new skills, techniques, and technologies. I have a large amount of experience within experimental and survey design, exploratory data analysis, multiple regression/correlation analysis, psychometrics, structural equation modeling, and meta-analysis. I am also very interested in web-scraping, natural language processing, and machine learning (both supervised and unsupervised).  R, SQL, Python, Tableau, SPSS, Shell, Spreadsheets, Excel, Git, and HTML/CSS.
+I am an applied experimental psychologist, quantitative researcher, and data scientist. I am passionate about utilizing valid and robust methodological and statistical techniques to address meaningful and important questions relevant to business and individuals. I am particularly interested in factors related to how people think about, and respond to, the world around them, and I believe that businesses and data scientists can strongly benefit by focusing on how these factors influence the outcomes of which we are interested. We live in a moment where we have access to an amount of data that has never before been available, and I am thrilled to continue utilizing methods and techniques to gain valuable and meaningful insights that can help each of us to achieve our desired goals.  
 
 ### Technical Skills
 
-+	**Programming:** R, SQL, Python, Tableau, Power BI, SPSS, Shell, Spreadsheets, Excel, Git, HTML, CSS
++	**Programming:** R, SQL, Python, Tableau, SPSS, Linux, Spreadsheets, Excel, Git, HTML, CSS, Javascript
 
-+	**Statistics and Machine Learning:** Linear Regression, Logistic Regression, General Linear Model, Correlation, Analysis of Variance, Time Series Analysis, Meta-Analysis, Psychometrics, Factor Analysis, Structural Equation Modeling, Bayesian Analysis, Random Forest Models, Principle Component Analysis, K-Means Clustering, Hierarchical Clustering, K Nearest Neighbors, Naive Bayes, Probability, Statistical Inference 
++	**Statistics, Modeling, and Machine Learning:** 	Linear Regression, Logistic Regression, General Linear Model, Correlation, Analysis of Variance, Time Series Analysis, Meta-Analysis, Psychometrics, Factor Analysis, Structural Equation Modeling, Bayesian Analysis, Random Forest Models, Principle Component Analysis, K-Means Clustering, Hierarchical Clustering, K Nearest Neighbors, Naïve Bayes, Probability, Statistical Inference, Causal inference, Causal Diagrams, Exploratory Data Analysis  
 
-+	**Research Methods:** Hypothesis Generation, Experimental Design, Survey Design, A/B Testing, Power Analysis, Sampling Methods, Scale Construction, Measurement Validation, Data Collection, Web Scraping 
++	**Research Methods:** Hypothesis Generation, Experimental Design, Survey Design, A/B Testing, Sampling Methods, Scale Construction, Measurement Validation, Data Collection, Web Scraping, Statistical Simulation, Power Analysis, Data Manipulation, Data Cleaning 
 
-+	**Reporting:** Data Visualization, R Markdown, Shiny Apps, Dashboard Construction, Technical Writing
++	**Reporting:** RShiny, RMarkdown, Dash, Plotly, ggplot2, Tableau, Powerpoint
 
 +	**Data Processing:** Data Manipulation, Data Cleaning, Data Collection, Exploratory Data Analysis
 

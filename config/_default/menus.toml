@@ -43,6 +43,6 @@
   weight = 70
 
 [[main]]
-  name = "Courses"
-  url = "#courses"
+  name = "Archived Podcasts"
+  url = "https://methodologyforpsychology.wordpress.com"
   weight = 80
