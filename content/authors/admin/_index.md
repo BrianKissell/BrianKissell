@@ -46,13 +46,13 @@ user_groups:
 - Visitors
 ---
 
-I am an applied experimental psychologist, quantitative researcher, and data scientist. I am passionate about utilizing valid and robust methodological and statistical techniques to address meaningful and important questions relevant to business and individuals. I am particularly interested in factors related to how people think about, and respond to, the world around them, and I believe that businesses and data scientists can strongly benefit by focusing on how these factors influence the outcomes of which we are interested. We live in a moment where we have access to an amount of data that has never before been available, and I am thrilled to continue utilizing methods and techniques to gain valuable and meaningful insights that can help each of us to achieve our desired goals.  
+I am an applied experimental psychologist, a quantitative researcher, a data analyst, and a data scientist. I am passionate about utilizing valid and robust methodological and statistical techniques to address meaningful and important questions relevant to business and individuals. I am particularly interested in factors related to how people think about, and respond to, the world around them, and I believe that businesses and data scientists can strongly benefit from focusing on how these factors influence the outcomes of which we are interested. We live in a moment where we have access to an amount of data that has never before been available, and I am thrilled to continue utilizing methods and techniques to gain valuable and meaningful insights that can help each of us to achieve our desired goals.  
 
 ### Technical Skills
 
 +	**Programming:** R, SQL, Python, Tableau, SPSS, Linux, Spreadsheets, Excel, Git, HTML, CSS, Javascript
 
-+	**Statistics, Modeling, and Machine Learning:** 	Linear Regression, Logistic Regression, General Linear Model, Correlation, Analysis of Variance, Time Series Analysis, Meta-Analysis, Psychometrics, Factor Analysis, Structural Equation Modeling, Bayesian Analysis, Random Forest Models, Principle Component Analysis, K-Means Clustering, Hierarchical Clustering, K Nearest Neighbors, Naïve Bayes, Probability, Statistical Inference, Causal inference, Causal Diagrams, Exploratory Data Analysis  
++	**Statistics, Modeling, and Machine Learning:** 	Linear Regression, Logistic Regression, General Linear Model, Correlation, Analysis of Variance, Time Series Analysis, Meta-Analysis, Psychometrics, Factor Analysis, Structural Equation Modeling, Bayesian Analysis, Random Forest Models, Principle Component Analysis, K-Means Clustering, Hierarchical Clustering, K Nearest Neighbors, Probability, Statistical Inference, Causal inference, Causal Diagrams, Exploratory Data Analysis  
 
 +	**Research Methods:** Hypothesis Generation, Experimental Design, Survey Design, A/B Testing, Sampling Methods, Scale Construction, Measurement Validation, Data Collection, Web Scraping, Statistical Simulation, Power Analysis, Data Manipulation, Data Cleaning 
 
@@ -63,5 +63,4 @@ I am an applied experimental psychologist, quantitative researcher, and data sci
 +	**Natural Language Processing:** Text Mining, Sentiment Analysis, Regular Expressions, Topic Modeling, Named Entity Recognition, Classification, Recommendation systems, spoken language processing
 
 +	**Social Psychologist:** Expertise in research on attitude formation, persuasion, decision-making, and social cognition.
-
 
