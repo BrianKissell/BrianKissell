@@ -37,7 +37,7 @@ height = ""
 [[item]]
   title = "Data Wrangling"
   content = "Clean and Prepare Messy Data"
-  align = "left"
+  align = "center"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -56,7 +56,7 @@ height = ""
 [[item]]
   title = "Data Analytics"
   content = "Analyze Data and Create Visualizations."
-  align = "right"
+  align = "center"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -75,7 +75,7 @@ height = ""
 [[item]]
   title = "Statistical Modeling"
   content = "Create Machine Learning Models"
-  align = "right"
+  align = "center"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -94,7 +94,7 @@ height = ""
 [[item]]
   title = "Reporting"
   content = "Create Reports and Dashboards"
-  align = "right"
+  align = "center"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
