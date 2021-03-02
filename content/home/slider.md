@@ -89,7 +89,7 @@ height = ""
   cta_label = "Service Details for Statistical Modeling"
   cta_url = "https://briankissell.com/"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "align-left"
 
 [[item]]
   title = "Reporting"
