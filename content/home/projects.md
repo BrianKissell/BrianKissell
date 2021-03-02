@@ -22,16 +22,24 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
-    tag = "*"
+    name = "Data Collection"
+    tag = "Data Collection"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Data Wrangling"
+    tag = "Data Wrangling"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Data Analytics"
+    tag = "Data Analytics"
+
+  [[content.filter_button]]
+    name = "Statistical Modeling"
+    tag = "Statistical Modeling"
+  
+  [[content.filter_button]]
+    name = "Reporting"
+    tag = "Reporting"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
