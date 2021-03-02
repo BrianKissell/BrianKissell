@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Brian Kissell</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://briankissell.com/post/</link>
+      <atom:link href="https://briankissell.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Wed, 08 Jul 2020 04:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://briankissell.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://briankissell.com/post/</link>
     </image>
     
     <item>
       <title>Science Communication</title>
-      <link>/post/science-communication/</link>
+      <link>https://briankissell.com/post/science-communication/</link>
       <pubDate>Wed, 08 Jul 2020 04:00:00 +0000</pubDate>
-      <guid>/post/science-communication/</guid>
+      <guid>https://briankissell.com/post/science-communication/</guid>
       <description>
 
 
@@ -28,9 +28,9 @@
     
     <item>
       <title>Statistics and Machine Learning</title>
-      <link>/post/statistics-and-machine-learning/</link>
+      <link>https://briankissell.com/post/statistics-and-machine-learning/</link>
       <pubDate>Wed, 08 Jul 2020 03:00:00 +0000</pubDate>
-      <guid>/post/statistics-and-machine-learning/</guid>
+      <guid>https://briankissell.com/post/statistics-and-machine-learning/</guid>
       <description>
 
 
@@ -43,9 +43,9 @@
     
     <item>
       <title>Programming Skills</title>
-      <link>/post/programming-skills/</link>
+      <link>https://briankissell.com/post/programming-skills/</link>
       <pubDate>Wed, 08 Jul 2020 01:00:00 +0000</pubDate>
-      <guid>/post/programming-skills/</guid>
+      <guid>https://briankissell.com/post/programming-skills/</guid>
       <description>
 
 
@@ -57,9 +57,9 @@
     
     <item>
       <title>Hypothesis Generation, Research Methods, and Research Design</title>
-      <link>/post/hypothesis-generation-research-methods-and-research-design/</link>
+      <link>https://briankissell.com/post/hypothesis-generation-research-methods-and-research-design/</link>
       <pubDate>Tue, 07 Jul 2020 02:00:00 +0000</pubDate>
-      <guid>/post/hypothesis-generation-research-methods-and-research-design/</guid>
+      <guid>https://briankissell.com/post/hypothesis-generation-research-methods-and-research-design/</guid>
       <description>
 
 
@@ -71,9 +71,9 @@
     
     <item>
       <title>Prior Research Studies</title>
-      <link>/post/prior-research-studies/</link>
+      <link>https://briankissell.com/post/prior-research-studies/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/prior-research-studies/</guid>
+      <guid>https://briankissell.com/post/prior-research-studies/</guid>
       <description>
 
 
@@ -126,9 +126,9 @@
     
     <item>
       <title>The Languages of Mathematics and Technology</title>
-      <link>/post/the-languages-of-mathematics-and-technology/</link>
+      <link>https://briankissell.com/post/the-languages-of-mathematics-and-technology/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/the-languages-of-mathematics-and-technology/</guid>
+      <guid>https://briankissell.com/post/the-languages-of-mathematics-and-technology/</guid>
       <description>
 
 
