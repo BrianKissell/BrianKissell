@@ -16,8 +16,7 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Freelance 
-  Data Scientist"
+  title = "Freelance Data Scientist"
   content = "Are you wanting utilize data to help improve your business decision-making? I would love to help you to do so successfully."
   align = "center"  # Choose `center`, `left`, or `right`.
 
