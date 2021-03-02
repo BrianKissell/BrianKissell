@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Freelance Data Scientist"
-  content = "Do you need help collecting relevant data, taming messy sources, or utilizing your data to improve business decision making? Do you need help creating informative visualizations, useful statistical models, or practical analytics reports?" I would love to help."
+  content = "Do you need help collecting relevant data, taming messy sources, or utilizing your data to improve business decision making? Do you need help creating informative visualizations, useful statistical models, or practical analytics reports? I would love to help."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
