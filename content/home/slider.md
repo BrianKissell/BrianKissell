@@ -7,7 +7,7 @@ weight = 1  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 5000
+interval = 10000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
@@ -16,8 +16,9 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Freelance Data Scientist"
-  content = "Do you need help collecting relevant data, taming messy sources, or utilizing your data to improve business decision making? Do you need help creating informative visualizations, useful statistical models, or practical analytics reports? I would love to help."
+  title = "Freelance 
+  Data Scientist"
+  content = "Are you wanting utilize data to help improve your business decision-making? I would love to help you to do so successfully."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
