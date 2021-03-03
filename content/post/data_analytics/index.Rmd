@@ -1,7 +1,7 @@
 ---
 title: "Data Analytics"
-author: "Brian Kissell"
-date: "2020-07-08T01:00:00Z"
+author: ""
+date: ""
 output: html_document
 featured: True
 ---
