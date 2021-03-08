@@ -1,7 +1,7 @@
 ---
 title: "Data Collection"
-author: ""
-date: ""
+author: "Brian Kissell"
+date: "2021-03-08T04:00:00Z"
 output: html_document
 featured: True
 ---
@@ -10,4 +10,31 @@ featured: True
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Add text here.
+## Create a New and Relevant Dataset
+
+We live in am exciting moment. The data necessary to address the relevant and meaningful questions related to your business and personal goals is more available than ever before. However, it can still be difficult to collect and organize that data in a manner in which it can be utilized. As such, I would love to help you build a new dataset tailored specifically to address your questions. The following are some examples of data collection projects I would be happy to help you with.
+
+### Utilize an API
+
+Many organizations have created APIs to share particular data that they have collected with the public. However, collecting that data can be difficult for those without prior experience. As such, I provide a service in which I help you to gain access to API credentials, write a program to collect data relevant to your project, conduct some initial processing and cleaning, and then export the new data set into your preferred file format. In addition, I will provide thorough anotation within the program so that you can understand how the program works, and know how you can use this program again in the future. There are numerous valuable and useful APIs, but I will give you two examples to give an idea of what is possible.
+
+**Twitter**
+
+![](Utilize Twitter's API to Collect Data Involving Tweets Related to Relevant Individuals, Products, and Topics.png)
+
++ Utilize Twitter's API to obtain a tremendous amount of interesting and valuable data related to differing users, or products or topics.
++ The documentation for these APIs can be found at ![](https://developer.twitter.com/en/docs).
+
+**YouTube**
+
+![](Utilize Google's API to Collect YouTube Data on Specified Videos, Channels, and Topics.png)
+
++ Utilize Google's API to obtain data from Youtube. You can obtain data related to specified channels, videos, and topics.
++ The documentation for these APIs can be found at ![](https://developers.google.com/youtube/v3).
+
+
+Collect Data from a public api ( example twitter, youtube, etc.)
+Write a scraper  (examples sbir, general conference)
+Collect data science through online survey's and experiments. (All my online studies)
+
+
