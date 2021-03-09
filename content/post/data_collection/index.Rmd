@@ -7,7 +7,7 @@ featured: false
 ---
 
 
-## Create a New and Relevant Dataset
+## Create a New and Relevant Data-Set
 
 We live in am exciting moment. The data necessary to address the relevant and meaningful questions related to your business and personal goals is more available than ever before. However, it can still be difficult to collect and organize that data in a manner in which it can be utilized. As such, I would love to help you build a new dataset tailored specifically to address your questions. The following are some examples of data collection projects I would be happy to help you with.
 
@@ -20,16 +20,14 @@ Many organizations have created APIs to share particular data that they have col
 
 **Twitter**
 
-+ Utilize Twitter's API to obtain a tremendous amount of interesting and valuable data related to differing users, or products or topics.
-+ The documentation for these APIs can be found at https://developer.twitter.com/en/docs.
+Utilize Twitter's API to obtain a tremendous amount of interesting and valuable data related to differing users, or products or topics. The documentation for these APIs can be found at https://developer.twitter.com/en/docs.
 
 
 ![](Utilize Google's API to Collect YouTube Data on Specified Videos, Channels, and Topics.png){width=100%}
 
 **YouTube**
 
-+ Utilize Google's API to obtain data from Youtube. You can obtain data related to specified channels, videos, and topics.
-+ The documentation for these APIs can be found at https://developers.google.com/youtube/v3.
+Utilize Google's API to obtain data from Youtube. You can obtain data related to specified channels, videos, and topics. The documentation for these APIs can be found at https://developers.google.com/youtube/v3.
 
 ### Write a Web-Scraper
 

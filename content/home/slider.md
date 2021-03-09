@@ -41,7 +41,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Service Details for Data Collection"
-  cta_url = "https://briankissell.com/"
+  cta_url = "https://briankissell.com/post/data_collection/"
   cta_icon_pack = "fas"
   cta_icon = "align-right"
 
@@ -60,7 +60,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Service Details for Data Wrangling"
-  cta_url = "https://briankissell.com/"
+  cta_url = "https://briankissell.com/post/data_wrangling/"
   cta_icon_pack = "fas"
   cta_icon = "align-right"
 
@@ -79,7 +79,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Service Details for Data Analytics"
-  cta_url = "https://briankissell.com/"
+  cta_url = "https://briankissell.com/post/data_analytics/"
   cta_icon_pack = "fas"
   cta_icon = "align-right"
 
@@ -98,7 +98,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Service Details for Statistical Modeling"
-  cta_url = "https://briankissell.com/"
+  cta_url = "https://briankissell.com/post/statistical_modeling/"
   cta_icon_pack = "fas"
   cta_icon = "align-right"
 
@@ -117,7 +117,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Service Details for Reporting"
-  cta_url = "https://briankissell.com/"
+  cta_url = "https://briankissell.com/post/reporting/"
   cta_icon_pack = "fas"
   cta_icon = "align-right"
 +++
