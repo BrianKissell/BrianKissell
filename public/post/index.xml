@@ -5,7 +5,7 @@
     <link>https://briankissell.com/post/</link>
       <atom:link href="https://briankissell.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Wed, 08 Jul 2020 04:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://briankissell.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,128 +13,102 @@
     </image>
     
     <item>
-      <title>Science Communication</title>
-      <link>https://briankissell.com/post/science-communication/</link>
+      <title>Data Wrangling</title>
+      <link>https://briankissell.com/post/data_wrangling/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://briankissell.com/post/data_wrangling/</guid>
+      <description>
+&lt;script src=&#34;index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;data-cleaning&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Data Cleaning&lt;/h2&gt;
+&lt;p&gt;Most of us are surrounded by a staggering amount of underutilized data. The problem is that while data is available (which we often intentionally collected), it is currently stored in a form which makes it inaccessible. I would love to help you get that data into a format in which it can be used.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Collection</title>
+      <link>https://briankissell.com/post/data_collection/</link>
+      <pubDate>Mon, 08 Mar 2021 04:00:00 +0000</pubDate>
+      <guid>https://briankissell.com/post/data_collection/</guid>
+      <description>
+&lt;script src=&#34;index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;create-a-new-and-relevant-data-set&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Create a New and Relevant Data-Set&lt;/h2&gt;
+&lt;p&gt;We live in am exciting moment. The data necessary to address the relevant and meaningful questions related to your business and personal goals is more available than ever before. However, it can still be difficult to collect and organize that data in a manner in which it can be utilized. As such, I would love to help you build a new dataset tailored specifically to address your questions. The following are some examples of data collection projects I would be happy to help you with.&lt;/p&gt;
+&lt;div id=&#34;utilize-an-api&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Utilize an API&lt;/h3&gt;
+&lt;p&gt;Many organizations have created APIs to share particular data that they have collected with the public. However, collecting that data can be difficult for those without prior experience. As such, I provide a service in which I help you to gain access to API credentials, write a program to collect data relevant to your project, conduct some initial processing and cleaning, and then export the new data set into your preferred file format. In addition, I will provide thorough anotation within the program so that you can understand how the program works, and know how you can use this program again in the future. There are numerous valuable and useful APIs, but I will give you two examples to give an idea of what is possible.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Utilize%20Twitter&amp;#39;s%20API%20to%20Collect%20Data%20Involving%20Tweets%20Related%20to%20Relevant%20Individuals,%20Products,%20and%20Topics.png&#34; style=&#34;width:100.0%&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Twitter&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Utilize Twitter’s API to obtain a tremendous amount of interesting and valuable data related to differing users, or products or topics. The documentation for these APIs can be found at &lt;a href=&#34;https://developer.twitter.com/en/docs&#34; class=&#34;uri&#34;&gt;https://developer.twitter.com/en/docs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Utilize%20Google&amp;#39;s%20API%20to%20Collect%20YouTube%20Data%20on%20Specified%20Videos,%20Channels,%20and%20Topics.png&#34; style=&#34;width:100.0%&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;YouTube&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Utilize Google’s API to obtain data from Youtube. You can obtain data related to specified channels, videos, and topics. The documentation for these APIs can be found at &lt;a href=&#34;https://developers.google.com/youtube/v3&#34; class=&#34;uri&#34;&gt;https://developers.google.com/youtube/v3&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;write-a-web-scraper&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Write a Web-Scraper&lt;/h3&gt;
+&lt;p&gt;There is also an incredible amount of data that is available online, but there is no API to help collect it. In these cases, I can write a web-scraper that iterates through all relevant webpages and collects the desired information. The possible available sources and projects are numerous, but I will give two examples of prior projects, which I hope to be instructive regarding what is possible.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Write%20a%20Customized%20Web-Scraper%20to%20Collect%20Data%20from%20Online%20Sources.png&#34; style=&#34;width:100.0%&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SBIR Awards:&lt;/strong&gt; The federally funded Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) programs are designed to stimulate technological innovations by providing financial support to U.S. businesses that are conducting research, and developing new technologies. To better understand these programs, and the types of projects that tend to receive funding, I first wrote a web-scraper to create a list of all available awards on the SBIR website (i.e., sbir.gov). I then wrote a scraper that iterated through the list of award page links and collect the relevant data for more than 85,000 web-pages. I also cleaned and prepared the new data set, and I converted the data to an appropriate format. I was then able to conduct a number of analytic and machine learning tasks that helped me to extract meaningful insights regarding the types of projects that tend to receive funding.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conference Presentations:&lt;/strong&gt; I was interested in an organization that made available the speeches of all of their semi-annual conferences from the past 40 years. I again wrote a web-scraper that collected the links for every speech that is available on the organizations web-page. I then wrote a scraper that iterated through the list of links, and collected the text from every speech. I was then able to store the data in a new database, and was able to extract numerous insights regarding the organization through the use of textual analysis and nlp techniques.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;surveys-and-experiments&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Surveys and Experiments&lt;/h3&gt;
+&lt;p&gt;Lastly, it is possible that you would like to obtain survey/experimental data related to your specific questions. I have more than five years of experience in conducting online experimental and survey research studies. In addition, I have a strong psychometric background, and have experience utilizing classical test theory and item response theory to construct and validate new measures. I would be happy to help you design new measures, as well as help you to use those new measures to collect data from current and potential customers/users.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Create%20and%20Validate%20New%20Measures,%20and%20Collect%20Experimental%20and%20Survey%20Data.png&#34; style=&#34;width:100.0%&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;please-reach-out&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Please Reach Out&lt;/h3&gt;
+&lt;p&gt;No matter the project, if you are needing help collecting data of any kind, I would love to discuss the project with you. If you are interested, please click on the contact page and send me a message. I look forward to hearing from you.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reporting</title>
+      <link>https://briankissell.com/post/statistical_modeling/</link>
       <pubDate>Wed, 08 Jul 2020 04:00:00 +0000</pubDate>
-      <guid>https://briankissell.com/post/science-communication/</guid>
+      <guid>https://briankissell.com/post/statistical_modeling/</guid>
       <description>
+&lt;script src=&#34;index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;p&gt;Why do scientists study what they choose to study? Why would one dedicate their life towards gaining the complex technical skills that allow for scientific pursuit? I believe that most of us entered scientific disciplines because we believe that science can bring about incredible insight &amp;amp; understanding that can be used to improve the lives of people. For the past eight to ten years, I have dedicated a significant portion of time attempting to develop the skills necessary to help real people understand complex scientific research. I have done this because I believe that scientific research should be utilized and for that to take place, real people need to be persuaded of its value.&lt;/p&gt;
-&lt;p&gt;During my undergraduate education, I created the methodology for psychology podcast in which I created more than 60 episodes. In these episodes, I interviewed experts in the field about their research and the methods they used. The purpose was to present academic research in a manner that could be understood by a general audience. I took down the podcast to allow me to focus on graduate school, but you can find the archived podcast information &lt;a href=&#34;https://methodologyforpsychology.wordpress.com/&#34;&gt;here&lt;/a&gt;. My time within my graduate program also provided me with numerous opportunities to develop skills related to science communication. I was a teaching assistant for four semesters, and I was the course instructor for six semesters in which I taught multiple topics (i.e., research methods, social psychology, and stress). I was also able to write numerous research manuscripts, and to present my results in many poster sessions and talks.&lt;/p&gt;
-&lt;p&gt;There are numerous technologies and techniques that help to facilitate good science communication. Some of my favorite data visualization tools are &lt;em&gt;ggplot2&lt;/em&gt;, &lt;em&gt;matplotlib&lt;/em&gt;, &lt;em&gt;tableau&lt;/em&gt;, and &lt;em&gt;power bi&lt;/em&gt;. For manuscripts, as well as most written types of reports, I tend to use &lt;em&gt;R Markdown&lt;/em&gt;. I use &lt;em&gt;R Studio&lt;/em&gt; and &lt;em&gt;blogdown&lt;/em&gt; to run my website (which I host on &lt;em&gt;github&lt;/em&gt;). I also tend to construct dashboards with &lt;em&gt;rshiny&lt;/em&gt; and &lt;em&gt;shinydashboards&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I can help you create reproducible reports and dashboards.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Statistics and Machine Learning</title>
-      <link>https://briankissell.com/post/statistics-and-machine-learning/</link>
-      <pubDate>Wed, 08 Jul 2020 03:00:00 +0000</pubDate>
-      <guid>https://briankissell.com/post/statistics-and-machine-learning/</guid>
+      <title>Statistical Modeling</title>
+      <link>https://briankissell.com/post/reporting/</link>
+      <pubDate>Wed, 08 Jul 2020 04:00:00 +0000</pubDate>
+      <guid>https://briankissell.com/post/reporting/</guid>
       <description>
+&lt;script src=&#34;index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;p&gt;Within psychological research, individuals who prioritize the use of robust quantitative techniques tend to take one of two differing approaches, which I will describe as being a specialist or a generalist. The specialist tends to select a technique that helps them address the types of questions they tend to ask (e.g., ANOVA, Regression, Chi-Square, Structural Equation Modeling, etc.), and then they attempt to design every study in a way that can utilize that technique. This approach can be quite valuable, as these specialists are likely to gain a thorough understanding of the complexities related to that approach. Generalists, on the other hand, attempt to utilize a wide range of differing techniques depending on the questions that are being asked. This approach can also be quite beneficial as it does not force researchers to shove every study and question through a square peg, and instead the researcher can focus on detecting and utilizing the best techniques for each individual question.&lt;/p&gt;
-&lt;p&gt;As an applied statistician and researcher, I tend to take a generalist approach, and am passionate about learning a wide array of differing skills and techniques. I believe that this approach gives me the ability to think widely and deeply about differing research questions, and to be able to consider which methods will be most beneficial within a project. In my work (&lt;a href=&#34;https://briankissell.com/post/prior-research-studies/&#34;&gt;click here for a list of some of my past projects&lt;/a&gt;), I have utilized linear regression, logistic regression, the general linear model, correlation, analysis of variance (ANOVA), time series analysis, meta-analysis, psychometrics, factor analysis, structural equation modeling, bayesian analysis, random forest models, principle component analysis, K-means clustering, hierarchical clustering, K nearest neighbors, naive bayes, and many other techniques.&lt;/p&gt;
-&lt;p&gt;From the time I began as an undergraduate student, I have taken more than twelve college level mathematics and statistics courses. These included courses on general statistical methods, analysis of variance, multiple regression, multivariate methods, structural equation modeling, meta-analysis, and more. In addition, I have taken numerous online courses, including &lt;a href=&#34;https://www.coursera.org/learn/statistical-inferences&#34;&gt;“Improving Your Statistical Inferences”&lt;/a&gt;, &lt;a href=&#34;https://www.coursera.org/learn/improving-statistical-questions&#34;&gt;“Improving Your Statistical Questions”&lt;/a&gt;, &lt;a href=&#34;https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your&#34;&gt;“Causal Diagrams: Draw Your Assumptions Before Your Conclusions”&lt;/a&gt;, as well as more than 100 courses from DataCamp, a majority of which focus on utilizing programing skills to conduct statistical analyses and to utilize machine learning algorithms. You can find the certificates for every DataCamp course that I have taken at &lt;a href=&#34;https://www.datacamp.com/profile/brianlkissell&#34; class=&#34;uri&#34;&gt;https://www.datacamp.com/profile/brianlkissell&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I will say that I believe that the best work occurs when generalists and specialists are able to collaborate and work together on solving differing problems within their research. I am a strong believer in the need for collaborative working environments in which differing team members can contribute their unique skill sets. I am thus proud that most of the projects that I have designed have involved high levels of collaboration, and I look forward to the many future projects in which I will be able to work with additional talented and exciting colleagues.&lt;/p&gt;
+&lt;p&gt;I can help you to create statistical models.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Programming Skills</title>
-      <link>https://briankissell.com/post/programming-skills/</link>
-      <pubDate>Wed, 08 Jul 2020 01:00:00 +0000</pubDate>
-      <guid>https://briankissell.com/post/programming-skills/</guid>
+      <title>Data Analytics</title>
+      <link>https://briankissell.com/post/data_analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://briankissell.com/post/data_analytics/</guid>
       <description>
+&lt;script src=&#34;index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;p&gt;My experience within psychology suggests that most researchers value, and utilize, important statistical techniques and procedures within their work, which often leads to the use of interesting and complex multivariate statistical approaches to problems. However, there seems to be less interest and attention within the field on developing and utilizing sufficient programming skills that allow one to really take advantage of the best statistical, as well as most methodologically robust, techniques. Researchers can get away with this, because there are strong traditions of using certain legacy programs within the field, such as SPSS, LISREL, Excel, etc. It is common for researchers to learn how to perform their techniques within these programs, and then rarely branch out to explore and improve upon the ways in which they use these technologies.&lt;/p&gt;
-&lt;p&gt;Early on within my education, I recognized the importance of developing valuable skill-sets, and was interested in the value of developing computer programming skills. I was particularly interested in R programming, as I was extremely impressed with how it was being used by statisticians and researchers within meta-science (which is an area of research dedicated towards understanding the best ways to conduct scientific studies). However, during my last two or three years within graduate school, I became exposed to the world of data science, which really opened my eyes to the incredible possibilities in which technology, combined with scientific and statistical expertise, can be used to gain important and actionable insights that can help improve the world.&lt;/p&gt;
-&lt;p&gt;I thus began to take a generalist approach to computer programming. I am not married to any language, but instead am very interested in how scientists and researchers can take advantage of the strengths of differing languages to accomplish their goals. However, there are a few languages that I most frequently use in my work, which are R, SQL, Python, Tableau, Power BI, SPSS, and Excel. I have learned most of my programming skills through self-study, taking online courses, and attempting to apply new techniques within my work. My favorite learning platform has been DataCamp, which I have used to complete more than 100 different courses. You can find the certificates for every DataCamp course by clicking &lt;a href=&#34;https://www.datacamp.com/profile/brianlkissell&#34;&gt;here&lt;/a&gt;. Lastly, I will note that my experience within graduate school taught me that I have the ability to learn complex technical skills in a fairly short period of time. I am always looking for new skills and techniques to learn and look forward to continuing my lifetime pursuit of learning and self-development.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hypothesis Generation, Research Methods, and Research Design</title>
-      <link>https://briankissell.com/post/hypothesis-generation-research-methods-and-research-design/</link>
-      <pubDate>Tue, 07 Jul 2020 02:00:00 +0000</pubDate>
-      <guid>https://briankissell.com/post/hypothesis-generation-research-methods-and-research-design/</guid>
-      <description>
-
-
-&lt;p&gt;An interesting thing about the field of psychology is that few people outside of the discipline have any idea of what it is, and yet almost everyone has a strong intuition related to the field. One example that I see frequently is the assumption that psychology is closely related to psychotherapy (although real psychotherapy usually does not match what people are imagining either). In reality, for a large proportion of psychologists, psychology has almost nothing to do with psychotherapy. Instead, psychology basically refers to a field in which scientists and researchers study people as individuals (e.g., they might be interested in behavior or cognition.) For example, I was trained as an applied experimental social psychologist, and as such I focused most of my research on utilizing the best methodological and statistically robust techniques towards understanding the topic of attitude and belief formation (i.e., why do people believe the things that they do?).&lt;/p&gt;
-&lt;p&gt;I bring this up because as a data scientist I see signs of a similar issue related to research design and hypothesis generation. Most people have a strong intuition that these topics are something that they are not, and thus may inaccurately estimate their ability to design studies, and or generate hypotheses. I find this to be interesting as a researcher who was not originally trained within a computer-science-oriented field. It seems completely obvious that for one to become a great programmer, that individual will need to engage in a tremendous amount of practice, and this process can take a significant amount of time. I would argue that the same could be said for study design, and hypothesis generation. It could also be said of the skill to detect important questions, and an ability to frame those questions in a theoretically sensible manner.&lt;/p&gt;
-&lt;p&gt;I believe that one of the largest benefits from an education within the field of psychology is that research design, hypothesis generation, theory generation, and critical thinking skills are prioritized. For example, for the past six years, I have participated in multiple journal article reading groups, which took place almost every week. Thus, I was able to spend multiple hours every week considering and debating the strengths, and weaknesses of differing studies, usually focusing on how the questions being asked, the theory being developed, and the methods and statistics being utilized could be improved. In addition, a large portion of all of my coursework was focused on similar issues. I was also able to gain hands-on experience as I led teams on more than twenty research projects, which included hypothesis generation, study design, data collection (and web scraping), statistical analysis, and reporting. I thus have significant training with hypothesis generation, experimental design, survey design, a/b testing, power analysis, and sampling methods. I also have experience designing and constructing new scales and measures, along with experience in validating those measures.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Prior Research Studies</title>
-      <link>https://briankissell.com/post/prior-research-studies/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://briankissell.com/post/prior-research-studies/</guid>
-      <description>
-
-
-&lt;p&gt;The following is an incomplete list of experiments, surveys, and other research projects that I have conducted within the past six years.&lt;/p&gt;
-&lt;div id=&#34;unpublished-manuscripts&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Unpublished Manuscripts&lt;/h2&gt;
-&lt;p&gt;Vohs, K. D., Schmeichel, B. J., Lohmann, S., Gronau, Q.… Kissell, B. L…. Wagenmakers, E.-J., &amp;amp; Albarracín, D. (2019). A preregistered paradigmatic test of the ego depletion effect. Unpublished manuscript, University of Minnesota, Minneapolis MN.&lt;/p&gt;
-&lt;p&gt;Kissell, B., Gibson, B., Prewett, M., Motyl, M. (2019). A meta-analytic evaluation of biased assimilation and polarization. Unpublished manuscript.&lt;/p&gt;
-&lt;p&gt;Kissell, B., Gibson, B., Bushman, B. (2019). The influence of overvaluation on narcissism. Unpublished manuscript.&lt;/p&gt;
-&lt;p&gt;Kissell, B., Gibson, B. (2018). The impact of physical position and prayer on cognitive style. Unpublished manuscript.&lt;/p&gt;
-&lt;p&gt;Kissell, B. (2017). Has Psychology Always Been So Ideologically Biased? A Historical Approach. Unpublished manuscript.&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Davoli, C. C., Scherr, A. S., Gibson, B. (2019). Profundity, truth, and bullshit: An investigation of the bullshit receptivity scale (BRS). Unpublished manuscript.&lt;/p&gt;
+&lt;div id=&#34;data-analytics&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Data Analytics&lt;/h2&gt;
+&lt;p&gt;Do you have a data set, but are not sure how to analyze it? I can help you to detect pattern, create visualizations, and to extract actionable insights.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;data-sets&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Data Sets&lt;/h2&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2020). Construction of the Perceived Threat to Identity Scale (PTI) . Unpublished raw data. (link to file)&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2020). Experimental Evaluation of the Perceived Threat to Identity Scale (PTI) and its Relationship to Conspiracy Ideation, Political Ideology, and Authoritarianism. Unpublished raw data. (link to file)&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2020). Trait Moderators of Biased Assimilation and Attitude Polarization. Unpublished raw data. (link to file)&lt;/p&gt;
-&lt;p&gt;Kissell, B. L. (2019). Textual analysis of speeches from leaders of the Church of Jesus Christ of Latter-day Saints. Unpublished raw data. (link to file)&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B., Prewett, M., Motyl, M. (2019). A meta-analytic evaluation of biased assimilation and polarization. Unpublished raw data. (link to file)&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B., Bushman, B. (2019). The influence of overvaluation on narcissism: Study 1. Unpublished raw data. (link to file)&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B., Bushman, B. (2019). The influence of overvaluation on narcissism:Study 2. Unpublished raw data. (link to file)&lt;/p&gt;
-&lt;p&gt;Vohs, K. D., Schmeichel, B. J., Lohmann, S., Gronau, Q.… Kissell, B. L…. Wagenmakers, E.-J., &amp;amp; Albarracín, D. (2019). A preregistered paradigmatic test of the ego depletion effect: Kissell dataset. Unpublished raw data. (link to file)&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2019). The effect of experimenter presence on ego-depletion. Unpublished raw data. (link to file)&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2018). The impact of physical position and prayer on cognitive style. Unpublished raw data. (link to file)&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Davoli, C. C., Scherr, A. S., Gibson, B. (2019). Profundity, Truth, and Bullshit: An Investigation of the Bullshit Receptivity Scale (BRS). Unpublished raw data. (link to file)&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2019). Religious decline and contemplation on authoritarianism, religious beliefs, evaluative bias, and political beliefs. Unpublished raw data. (link to file).&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2019). Religious decline and source of information on authoritarianism, religious belief, evaluative bias, and political beliefs. Unpublished raw data. (link to file).&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2019). Religious decline on RWA, ideology, and Trump tweets. Unpublished raw data. (link to file).&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2019). The Induction of religious decline through Video Clips on authoritarianism, conservative ideology, and authoritarian behavior. Unpublished raw data. (link to file).&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2019). Religious Threat and Writing about Religious Experience on the CRT, NC, and FI. Unpublished raw data. (link to file).&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2019). Religious Threat and Writing about Religious Experience on the Bullshit Receptivity Scale (BRS). Unpublished raw data. (link to file).&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2019). Religious Threat on Political and Religious Beliefs. Unpublished raw data. (link to file).&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2019). Religious Threat on Evaluative Bias and Religious Beliefs. Unpublished raw data. (link to file).&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2019). Religious Threat on Christianity/Muslim IAT. Unpublished raw data. (link to file).&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2019). Religious Threat on Christianity/Muslim IAT and Religious and Political Beliefs. Unpublished raw data. (link to file).&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2019). The Influence of Cellphones on Serial Associative Cognition: Pilot. Unpublished raw data. (link to file).&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2019). The Influence of Cellphones on Serial Associative Cognition. Unpublished raw data. (link to file).&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2019). The Influence of Mindfulness Meditation on Serial Associative Cognition. Unpublished raw data. (link to file).&lt;/p&gt;
-&lt;p&gt;Kissell, B. L., Gibson, B. (2019). Teaching about the replication crisis: pilot. Unpublished raw data. (link to file).&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;conference-presentations&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Conference Presentations&lt;/h2&gt;
-&lt;p&gt;Kissell, B. L. (2017). The influence of physical position and prayer on cognitive style. The Cognition of Belief. Washington, D.C.: John Templeton Foundation.&lt;/p&gt;
-&lt;p&gt;Kissell, B. L. (2018). Has psychology always been so ideologically biased?: A historical argument for ideological diversity. SPSP Annual Convention. Atlanta, GA: Society for Personality and Social Psychology.&lt;/p&gt;
-&lt;p&gt;Kissell, B. L.; Gibson, B. (2019). Religious Decline, Political Ideology, and Authoritarianism. SCREE Annual Student Research and Creative Endeavors Exhibition. Mount Pleasant, MI: Central Michigan University.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Languages of Mathematics and Technology</title>
-      <link>https://briankissell.com/post/the-languages-of-mathematics-and-technology/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://briankissell.com/post/the-languages-of-mathematics-and-technology/</guid>
-      <description>
-
-
-&lt;p&gt;As an undergraduate psychology student, I worked with a quantitative psychologist who had a nice analogy that has stuck with me. He spoke about the process of learning a new language. After studying a language for a few years, one may travel to a new area where that language is spoken and be able to somewhat function in that new place. They may have the skills to ask for directions to a restroom, to order their food, and may have even developed a decent vocabulary. However, it is unlikely that this person will have the fluency and skills necessary to communicate with others in a manner that is productive or meaningful. To truly take advantage of a new language, and to gain the skills to express oneself in a proficient manner, it can take a large amount of work and time. However, it can also be tremendously rewarding.&lt;/p&gt;
-&lt;p&gt;This researcher would argue that it can be helpful to think about math as a language. He argued that there were too many within psychology who were only functioning at a basic (purely functional) level, and these people could benefit greatly if they would work to gain a fluency with the language of mathematics. I will add to the analogy by saying that the same could be said about the technological tools that are used within psychology. While most utilize sophisticated technologies for data collection and analysis, I would argue that many researchers within psychology are far from fluent in the language of technology and programming. Many seem content with using technology at a purely functional level, but I believe that for those who really want to explore and understand the targets of their research will need to develop a fluency with the languages of mathematics and technology.&lt;/p&gt;
-&lt;p&gt;Within the past two years, I have found myself drawn away from academic psychology, and instead have decided to enter the world of data-science. For those who are unfamiliar, data science is an interdisciplinary field that attempts to utilize scientific methodologies, statistical techniques, and algorithms – with a strong emphasis on programming, technology, and mathematics – to gain insights into the large array of data that is being made available by technology. I believe that the fields of both data science and psychology have a great deal to teach one another, and I am interested in exploring what those lessons are. As an attempt to begin that exploration, I am beginning a series on lessons that psychologological researchers can learn from data science. Some of the topics that I will explore in this series include lessons on data visualization, web scraping, data cleaning, exploratory data analysis, cross validation, textual analysis, natural linguistic processing, supervised and unsupervised machine learning, time series analysis, survival analysis, file management, database management, deep learning, many programming languages, and more. I look forward to exploring these topics with you.&lt;/p&gt;
 </description>
     </item>
     
