@@ -1,9 +1,9 @@
 ---
-title: "Statistical Modeling"
+title: "Reporting"
 author: "Brian Kissell"
 date: "2020-07-08T04:00:00Z"
 output: html_document
 featured: True
 ---
 
-I can help you to create statistical models.
+I can help you create reproducible reports and dashboards.
